@@ -16,8 +16,8 @@ export default {
   name: 'App',
   data(){ //데이터 보관함 모두 여기 저장
     return {
-      price1 : 40,
-      price2 : 60,
+      price1 : 30,
+      price2 : 40,
       products : ['역삼동원룸', '천호동원룸' , ' 마포구원룸']
 
     }
